@@ -15,9 +15,10 @@ Exploring different programming languages and tools
 I love expanding my knowledge whether it's web development, data analysis, algorithms, or anything code-related. Every language teaches something valuable! ✨
 
 📫 How to Reach Me
+
 Email: teresarinnie@gmail.com
 
-LinkedIn:https://www.linkedin.com/in/trsarnnie06
+LinkedIn: https://www.linkedin.com/in/trsarnnie06
 
 ⚡️ Fun Fact
 🌙 Best coding happens late at night when it's quiet
